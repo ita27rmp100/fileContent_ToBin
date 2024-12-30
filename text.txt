@@ -1,5 +1,0 @@
-hello world
-I'm abderahim, an algerian programmer and computer science student (1cp)
-I wanna improve myself everyday and help people to do that so.
-
-Small Idea, First time in C language.
